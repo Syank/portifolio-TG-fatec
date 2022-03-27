@@ -1,8 +1,6 @@
 ## Rafael Furtado Rodrigues dos Santos
 
 ### Introdução
-Faça uma breve introdução sobre você. Fale de sua formação e carreira. Caso aplicável, fale de publicações ou apresentações em eventos da área de computação. Recomenda-se a inclusão de uma foto.
-
 Este repositório tem como objetivo reunir e documentar todos os projetos de API ***(Aprendizagem por Projetos Integrados)*** que foram realizados durante a graduação no curso de Análise e Desenvolvito de Sistema na **FATEC Profº Jessen Vidal**, em São José dos Campos
 Foram desenvolvidos um projeto por semestre, desde o primeiro semestre, totalizando 6 projetos no total
 
