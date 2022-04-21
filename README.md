@@ -7,7 +7,7 @@ Foram desenvolvidos um projeto por semestre, desde o primeiro semestre, totaliza
 Abaixo está a lista dos projetos e seus links que leverá a um README dedicado a cada um dos projetos
 
 - [Horta automatizada - 1º Semestre](https://github.com/Syank/portifolio-TG-fatec/tree/main/primeiroSemestre)
-- [Jornada de Motoristas - 2º Semestre](https://github.com/Syank/PI-JornadaDeMotoristas)
+- [Jornada de Motoristas - 2º Semestre](https://github.com/Syank/portifolio-TG-fatec/blob/main/segundoSemestre/README.md)
 - [Plataforma de ensino - 3º Semestre](https://github.com/Syank/API-RGBA)
 - [Gerador de manuais de aeronaves - 4º Semestre](https://github.com/Syank/AirplaneDocGenerator)
 - [Aplicativo para notificação de problemas em equipamento - 5º Semestre (ainda em desenvolvimento)](#)
