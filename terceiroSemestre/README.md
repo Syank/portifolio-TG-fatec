@@ -27,12 +27,15 @@ Como extra, nossa plataforma também oferece um assistente **chatbot** que atend
 A seguir estão alguns GIFs de funcionamento do sistema:
 
 Dashboad de estatistícas do sistema
+
 <img src="https://github.com/giovannialves01/API-RGBA/blob/SPRINT-4/doc/Sprint%204/GIFs/dashboard.gif" width="500"/>
 
 Criação de questão para o banco de questões
+
 <img src="https://github.com/giovannialves01/API-RGBA/blob/SPRINT-4/doc/Sprint%204/GIFs/criar%20questao%20e%20gerir%20usuarios.gif" width="500"/>
 
 Aluno concluíndo o curso e emitindo seu certificado
+
 <img src="https://github.com/giovannialves01/API-RGBA/blob/SPRINT-4/doc/Sprint%204/GIFs/realiza%C3%A7%C3%A3o%20curso.gif" width="500"/>
 
 ***O repositório oficial do projeto pode ser acessado pelo link a seguir: https://github.com/Syank/API-RGBA***
