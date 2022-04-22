@@ -46,9 +46,9 @@ Na parte de desenvolvimento, contribuí na elaboração da interface gráfica, t
 
 ## Hard Skills
 No quesito de hard skills, neste semestre tive o primeiro contato com Java e Bancos de dados relacionais, assim, aprendi o suficiente para desenvolver de forma eficaz o projeto, levando em conta os requisitos estabelecidos.
-Específicamente, em Java, aprendi a estruturar um projeto, a sintax básica da linguagem, noções de threads, bibliotecas e dependências e integração ao banco de dados através do ORM oferecido pelo **Hibernate**
+Específicamente, em Java, aprendi a estruturar um projeto, a sintaxe básica da linguagem, noções de threads, bibliotecas e dependências e integração ao banco de dados através do ORM oferecido pelo **Hibernate**.
 Já com relação ao banco de dados relacional, tive o primeiro contato também com PostgreSQL, aprendi a elaborar queries básicas, relacionamento e integridade dos dados e a configuração básica do mesmo.
 
 ## Soft Skills
-Como desempenhei o papel de *master*, tive a oportunidade de exercitar as soft skills de gestão de equipes, planejamento de sprints e resolução de conflitos entre os integrantes do projeto
-Como neste semestre tivemos contato com um cliente real, também pude desenvolver as noções de levantamento de requisitos para o projeto e como gerir a equipe de forma adequada a cumprir os objetivos de cada entrega a ser realizada
+Como desempenhei o papel de *master*, tive a oportunidade de exercitar as soft skills de gestão de equipes, planejamento de sprints e resolução de conflitos entre os integrantes do projeto.
+Como neste semestre tivemos contato com um cliente real, também pude desenvolver as noções de levantamento de requisitos para o projeto e como gerir a equipe de forma adequada a cumprir os objetivos de cada entrega a ser realizada.
