@@ -42,12 +42,32 @@ Aluno concluíndo o curso e emitindo seu certificado
 
 
 ## Tecnologias Utilizadas
-
+Para este projeto a equipe utilizou as seguintes tecnologias:
+- Java: Linguagem utilizada para ser o servidor (back-end) da aplicação
+- Spring Boot: Framework utilizada para a criação e estruturação do servidor no padrão ***MVC***
+- HTML, CSS e JavaScript: Trindadade da web utilizada para a criação da interface do usuário
+- PostgreSQL: Banco de dados relacional para a persistência de dados
 
 ## Contribuições Pessoais
+Neste projeto, tive grande participação no desenvolvimento da parte web da aplicação, criando as páginas, estilos e funcionalidades a serem utilizadas pelos usuários.
 
+Foi o primeiro grande contato que tive com a parte de front-end de um projeto e aprendi a manipular eventos, requisições e elementos HTML através de JavaScript.
+
+Na parte do servidor back-end, tive contato também, pela primeira vez, com a framework do Spring Boot, que oferece uma forma simples de elegante de criar controladores a serem acessados pelos clientes e acesso/persistência dos dados no banco de dados através de sua implementação do ***JPA*** através do seu modelo de *repositórios* de entidades *ORM*,
+dessa forma, no servidor
 
 ## Hard Skills
+Aqui, para fins de organização, é possível dividir as hard skills desenvolvidas entre front-end e back-end
 
+Front-end:
+- Organização e estruturação de páginas HTML
+- Estilização dos componentes HTML por meio de CSS
+- Manipulação de eventos, requisições ao servidor e de componentes HTML através de JavaScript
+
+Back-end:
+- Estruturação de um projeto no padrão ***MVC***
+- Criação de um servidor fornecedor de serviços *REST*
+- Utilização da estrutura ORM para acesso a dados através do padrão de *repositórios*. Recurso facilitado graças à framework Spring Boot
 
 ## Soft Skills
+Como parte da equipe de desenvolvimento, pude focar completamente na elaboração do projeto e tive um aprofundamento maior nas responsabilidades de apontar as atividades feitas, propor melhorias na organização da equipe e auxiliar os outros integrantes da equipe no desenvolvimento de suas tarefas
