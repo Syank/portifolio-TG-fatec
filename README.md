@@ -9,8 +9,6 @@ Minha primeira expêriencia nesse ramo foi com Python, através do curso Python 
 
 <img align="right" src="https://avatars.githubusercontent.com/u/49576121?s=400&u=0f3dca5882ea383b3616b89caa41443523c3d907&v=4" alt="isolated" width="200"/>
 
-</br>
-
 Atualmente trabalho como Analista Desenvolvedor, onde atuo como um desenvolvedor *full stack*, desenvolvendo tanto a parte do *front end* quanto do *back end*, bem como também participo da metodologia ágil em meu trabalho.
 
 Este repositório tem como objetivo reunir e documentar todos os projetos de API ***(Aprendizagem por Projetos Integrados)*** que foram realizados durante a graduação no curso de Análise e Desenvolvito de Sistema na **FATEC Profº Jessen Vidal**, em São José dos Campos
@@ -27,10 +25,10 @@ Abaixo está a lista dos projetos e seus links que leverá a um README dedicado 
 
 ### Sobre mim
 Carreira acadêmica:
-- Após a conclusão do ensino médio, estudei por três anos na Univap, fazendo o curso de Bacharelado em Química. No terceiro ano, tive um breve contato com programação através de professores e amigos e acabei gostando mundo deste mundo. Por uma amiga que estudava na Fatec na época, tive a oportunidade de fazer o curso online Python para Zumbis, do professor *Fernando Masanori*. Com o curso tive um primeiro grande contato com programação e percebi que era realmente isso que gostaria de fazer e decidi trancar o curso de Química e trocar de área de formação e com isso acabei indo estudar na Fatec.
+- Após a conclusão do ensino médio, estudei por três anos na Univap, fazendo o curso de Bacharelado em Química. No terceiro ano, tive um breve contato com programação através de professores e amigos e acabei gostando muito deste mundo. Por uma amiga que estudava na Fatec na época, tive a oportunidade de fazer o curso online Python para Zumbis, do professor *Fernando Masanori*. Com o curso tive um primeiro grande contato com programação e percebi que era realmente isso que gostaria de fazer e decidi trancar o curso de Química e trocar de área de formação e com isso acabei indo estudar na Fatec.
 
 Carreira profissional:
-- No final do meu primeiro ano na Fatec, recebi uma indicação para estágiar em uma empresa no Parque tecnológico. Durante meu periódo de estágio, tive um contato real em como a área de programação e TI são utilizadas dentro de uma empresa para entregar soluções aos seus clientes. Pouco antes de completar um ano como estágiário, fui efetivado como membro da equipe de desenvolvimento, atuando hoje como Analista Desenvolvedor.
+- No final do meu primeiro ano na Fatec, recebi uma indicação para estagiar em uma empresa no Parque tecnológico. Durante meu periódo de estágio, tive um contato real em como a área de programação e TI são utilizadas dentro de uma empresa para entregar soluções aos seus clientes. Pouco antes de completar um ano como estagiario, fui efetivado como membro da equipe de desenvolvimento, atuando hoje como Analista Desenvolvedor.
 
 ### Principais conhecimentos
 Durante minha formação, tive contato com diversas tecnologias e uma grande absorção dos conhecimentos em como utiliza-lás e em que momentos fazer uso de cada uma delas, dependendo do problema a ser solucionado.
