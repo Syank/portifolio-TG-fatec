@@ -1,7 +1,7 @@
 ## Sobre o projeto
-No segundo semestre, tivemos como empresa parceira a [IACIT](https://www.iacit.com.br/), de modo que os mesmos contribuíram junto aos professores para a elaboração do problema a ser resolvidos pelos alunos.
-O problema proposto foi a elaboração de uma aplicação **desktop** que auxilia-se motoristas de caminhão durante sua jornada, servindo como principal meio entre os usuários (motoristas) e empregadores de comunicação, sinalizando problemas, situações e notificações entre eles, além de registrar as horas trabalhadas pelos motoristas.
-De forma mais detahada, a aplicação oferece:
+No segundo semestre, tivemos como empresa parceira a [IACIT](https://www.iacit.com.br/), de modo que os mesmos contribuíram junto aos professores para a elaboração do problema a ser resolvido pelos alunos.
+O problema proposto foi a elaboração de uma aplicação **desktop** que auxiliá-se motoristas de caminhão durante sua jornada, servindo como principal meio de comunicação entre os usuários (motoristas) e empregadores, sinalizando problemas, situações e notificações entre eles, além de registrar as horas trabalhadas pelos motoristas.
+De forma mais detalhada, a aplicação oferece:
 - Cadastro dos motoristas
 - Cadastro das empresas
 - Cadastro dos veículos
@@ -14,7 +14,7 @@ De forma mais detahada, a aplicação oferece:
 - Emissão de relatórios estatísticos sobre os motoristas
 
 #### Níveis de acesso da aplicação
-A aplicação oferece três níveis de acessos distintos aos usuários, cada um apresentando aos mesmos funcionalidades específicas de interesse do perfil
+A aplicação oferece três níveis de acessos distintos aos usuários, cada um apresentando, aos mesmos, funcionalidades específicas de interesse do perfil
 
 **Motorista:** Motoristas tem acesso a sua jornada/viagem atual, que são atribuídas pelos **Supervisores**. Ao entrar com este perfil de acesso, o motorista poderá acionar o início de sua jornada de trabalho para ser registrada no sistema, parar para almoço e descanso e notificar sobre a conclusão da sua viagem. Também podem enviar avisos para os supervisores sobre algum imprevisto na sua jornada.
 
@@ -42,7 +42,7 @@ Para este projeto, utilizamos as seguintes tecnologias:
 
 ## Contribuições Pessoais
 Na equipe, assumi o papel de *Scrum Master*, dessa forma, fui responsável por representar a equipe durante as reuniões e apresentações, bem como ajudar a gerênciar as atividades e objetivos da equipe.
-Na parte de desenvolvimento, contribuí na elaboração da interface gráfica, tanto na prototipação quanto na codificação final. Participei da configuração do projeto em questão às suas dependências e configuração do **Hibernate** para a persistência de dados. Auxiliei no design e planejamento do banco de dados
+Na parte de desenvolvimento, contribuí na elaboração da interface gráfica, tanto na prototipação quanto na codificação final. Participei da configuração do projeto em questão às suas dependências e configuração do **Hibernate** para a persistência de dados. Auxiliei no design e planejamento do banco de dados.
 
 ## Hard Skills
 No quesito de hard skills, neste semestre tive o primeiro contato com Java e Bancos de dados relacionais, assim, aprendi o suficiente para desenvolver de forma eficaz o projeto, levando em conta os requisitos estabelecidos.
