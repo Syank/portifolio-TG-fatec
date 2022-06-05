@@ -60,14 +60,14 @@ dessa forma, no servidor
 Aqui, para fins de organização, é possível dividir as hard skills desenvolvidas entre front-end e back-end
 
 Front-end:
-- Organização e estruturação de páginas HTML
-- Estilização dos componentes HTML por meio de CSS
-- Manipulação de eventos, requisições ao servidor e de componentes HTML através de JavaScript
+- HTML: Organização e estruturação de páginas web | Sei fazer com autonomia
+- CSS: Estilização dos componentes HTML por meio de regras CSS | Sei fazer com autonomia
+- JavaScript: Manipulação de eventos, requisições ao servidor e de componentes HTML através de JavaScript | Sei fazer com autonomia
 
 Back-end:
-- Estruturação de um projeto no padrão ***MVC***
-- Criação de um servidor fornecedor de serviços *REST*
-- Utilização da estrutura ORM para acesso a dados através do padrão de *repositórios*. Recurso facilitado graças à framework Spring Boot
+- Padrão de projeto: Estruturação de um projeto no padrão ***MVC*** | Sei fazer com autonomia
+- Serviços REST: Criação de um servidor fornecedor de serviços *REST* | Sei fazer com autonomia
+- Persistência de dados: Utilização da estrutura ORM para acesso a dados através do padrão de *repositórios*. Recurso facilitado graças à framework Spring Boot | Sei fazer com autonomia
 
 ## Soft Skills
 Como parte da equipe de desenvolvimento, pude focar completamente na elaboração do projeto e tive um aprofundamento maior nas responsabilidades de apontar as atividades feitas, propor melhorias na organização da equipe e auxiliar os outros integrantes da equipe no desenvolvimento de suas tarefas

@@ -22,10 +22,10 @@ Na montagem da parte de hardware, também participei ativamente da correta confi
 
 ## Hard Skills
 Durante a elaboração do projeto, utilizei e desenvolvi as seguintes hard skills:
-- Programação em C/C++ para placas microcontroladoras (Arduíno)
-- Programação em blocos para aplicativos mobile (Kodular)
-- Montagem de circuítos elétricos para sensores de IoT
-- Comunicação via Bluetooth entre dispositivos
+- Programação em C/C++: Criação de código-fonte para controlar placas microcontroladores (Arduíno) | Sei fazer com auxílio de consultas
+- Kodular: Programação em blocos para aplicativos mobile | Sei fazer com auxílio de consultas
+- Montagem de circuítos elétricos para sensores de IoT | Sei fazer com auxílio de consultas
+- Comunicação via Bluetooth entre dispositivos | Sei fazer com auxílio de consultas
 
 ## Soft Skills
 Como desempenhei o papel de *master*, tive a oportunidade de exercitar as soft skills de gestão de equipes, planejamento de sprints e resolução de conflitos entre os integrantes do projeto.

@@ -31,9 +31,18 @@ Assumi o papel de *Product Owner* na equipe, desta forma fui capaz de ter contat
 Na parte de desenvolvimento, assim como nos projetos passados, ajudei fortemente na montagem e configuração do ambiente de desenvolvimento, tanto do servidor quanto do cliente. Participei da modelagem do banco de dados, no mapeamento das entidades ORM. Tive grande participação também na condificação da aplicação do cliente, sendo uma considerável parte da interface ter sido feita por mim.
 
 ## Hard Skills
-No quesito hard skills, neste projeto pude aprender uma outra forma de estruturar interfaces para usuários através de componentização de cada elemento da interface.
+Aqui, para fins de organização, é possível dividir as hard skills desenvolvidas entre front-end e back-end
 
-Pude aprender também, através da biblioteca Tailwind, uma forma mais eficaz de organizar e reaproveitar estilos CSS
+Front-end:
+- HTML: Organização e estruturação de páginas web | Sei fazer com autonomia
+- Tailwind: Biblioteca para abordar estilos CSS de forma extremamente reutilizável | Sei fazer com auxílio de consulta
+- Web Components: Tecnologia web nativa que permite a criação de **TAGs HTML** reaproveitáveis | Sei fazer com auxílio de consulta
+
+
+Back-end:
+- Padrão de projeto: Estruturação de um projeto no padrão ***MVC*** | Sei fazer com autonomia
+- Serviços REST: Criação de um servidor fornecedor de serviços *REST* | Sei fazer com autonomia
+- Persistência de dados: Utilização da estrutura ORM para acesso a dados através do padrão de *repositórios*. Recurso facilitado graças à framework Spring Boot | Sei fazer com autonomia
 
 ## Soft Skills
 Por ter sido o *Product Owner*, tive a oportunidade de aprender como realizar o levantamento de requisitos diretamente com o cliente, como entender e atender suas necessidades, propondo soluções que não haviam sido imaginadas antes e como me relacionar de forma correta com ele.

@@ -45,9 +45,11 @@ Na equipe, assumi o papel de *Scrum Master*, dessa forma, fui responsável por r
 Na parte de desenvolvimento, contribuí na elaboração da interface gráfica, tanto na prototipação quanto na codificação final. Participei da configuração do projeto em questão às suas dependências e configuração do **Hibernate** para a persistência de dados. Auxiliei no design e planejamento do banco de dados.
 
 ## Hard Skills
-No quesito de hard skills, neste semestre tive o primeiro contato com Java e Bancos de dados relacionais, assim, aprendi o suficiente para desenvolver de forma eficaz o projeto, levando em conta os requisitos estabelecidos.
-Específicamente, em Java, aprendi a estruturar um projeto, a sintaxe básica da linguagem, noções de threads, bibliotecas e dependências e integração ao banco de dados através do ORM oferecido pelo **Hibernate**.
-Já com relação ao banco de dados relacional, tive o primeiro contato também com PostgreSQL, aprendi a elaborar queries básicas, relacionamento e integridade dos dados e a configuração básica do mesmo.
+Durante a elaboração do projeto, utilizei e desenvolvi as seguintes hard skills:
+- Java: Estruturação de projetos, sintaxe básica, noções de threads, bibliotecas, dependências e integração ao banco de dados através de ORM com **Hibernate** | Sei fazer com autonomia
+- Banco de dados relacional (PostgreSQL): Criação de queries básicas, relacionamento e integridade dos dados | Sei fazer com autonomia
+- Interface de usuário (CSS): Criação de estilos responsivos e de fácil utilização | Sei fazer com autonomia
+
 
 ## Soft Skills
 Como desempenhei o papel de *master*, tive a oportunidade de exercitar as soft skills de gestão de equipes, planejamento de sprints e resolução de conflitos entre os integrantes do projeto.
