@@ -34,9 +34,12 @@ Para este projeto, utilizamos as seguintes tecnologias:
 
 ## Contribuições Pessoais
 Neste projeto fui o *master*, o representante da equipe em reuniões e apresentações, bem como também participante do desenvolvimento em si.
+
 Configurei e dei manutenção nas configurações do *webpack* de nosso projeto, desenvolvi serviços em Python no servidor para serem acessados por nessas aplicações clientes (mobile e web).
+
 Participei ativamente do desenvolvimento da aplicação mobile, criando interfaces, regras de negócios e funcionalidades para o aplicativo.
 Na parte de dados e sua persistência, elaborei o algoritmo responsável por fazer a portabilidade dos dados mockados a serem usados fornecidos pelo cliente para o banco de dados MongoDB que utilizamos.
+
 Fiz uso e implementei a biblioteca ***Watchdog***, em Python, responsável por ouvir modificações em arquivos. Fez-se necessário essa funcionalidade em razão de um dos requisitos do cliente ser a sincronização instantânea da fonte de dados dos acessos dos clientes após alguma modificação.
 
 
