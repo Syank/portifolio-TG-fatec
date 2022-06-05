@@ -16,12 +16,12 @@ Foram desenvolvidos um projeto por semestre, desde o primeiro semestre, totaliza
 
 Abaixo está a lista dos projetos e seus links que leverá a um README dedicado a cada um dos projetos:
 
-- [Horta automatizada - 1º Semestre](https://github.com/Syank/portifolio-TG-fatec/tree/main/primeiroSemestre)
-- [Jornada de Motoristas - 2º Semestre](https://github.com/Syank/portifolio-TG-fatec/tree/main/segundoSemestre)
-- [Plataforma de ensino - 3º Semestre](https://github.com/Syank/portifolio-TG-fatec/tree/main/terceiroSemestre)
-- [Gerador de manuais de aeronaves - 4º Semestre](https://github.com/Syank/portifolio-TG-fatec/tree/main/quartoSemestre)
-- [Aplicativo para notificação de problemas em equipamento - 5º Semestre (ainda em desenvolvimento)](#)
-- [6º Semestre (ainda não desenvolvido)](#)
+- [Horta automatizada - 1º Semestre (1º Sem 2020)](https://github.com/Syank/portifolio-TG-fatec/tree/main/primeiroSemestre)
+- [Jornada de Motoristas - 2º Semestre (2º Sem 2020)](https://github.com/Syank/portifolio-TG-fatec/tree/main/segundoSemestre)
+- [Plataforma de ensino - 3º Semestre (1º Sem 2021)](https://github.com/Syank/portifolio-TG-fatec/tree/main/terceiroSemestre)
+- [Gerador de manuais de aeronaves - 4º Semestre (2º Sem 2021)](https://github.com/Syank/portifolio-TG-fatec/tree/main/quartoSemestre)
+- [Aplicativo para notificação de problemas em equipamento - 5º Semestre (1º Sem 2022)](https://github.com/barbaraport/api-claradb)
+- [6º Semestre (ainda não desenvolvido) (2º Sem 2022)](#)
 
 ### Sobre mim
 Carreira acadêmica:
