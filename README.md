@@ -20,7 +20,7 @@ Abaixo está a lista dos projetos e seus links que leverá a um README dedicado 
 - [Jornada de Motoristas - 2º Semestre (2º Sem 2020)](https://github.com/Syank/portifolio-TG-fatec/tree/main/segundoSemestre)
 - [Plataforma de ensino - 3º Semestre (1º Sem 2021)](https://github.com/Syank/portifolio-TG-fatec/tree/main/terceiroSemestre)
 - [Gerador de manuais de aeronaves - 4º Semestre (2º Sem 2021)](https://github.com/Syank/portifolio-TG-fatec/tree/main/quartoSemestre)
-- [Aplicativo para notificação de problemas em equipamento - 5º Semestre (1º Sem 2022)](https://github.com/barbaraport/api-claradb)
+- [Aplicativo para notificação de problemas em equipamento - 5º Semestre (1º Sem 2022)](https://github.com/Syank/portifolio-TG-fatec/tree/main/quintoSemestre)
 - [6º Semestre (ainda não desenvolvido) (2º Sem 2022)](#)
 
 ### Sobre mim
