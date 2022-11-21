@@ -11,7 +11,10 @@ Com isso, foi pedido à equipe que realizasse um ajuste nessa funcionalidade, de
 
 Abaixo está um GIF exibindo a funcionalidade de reconhecimento implementada:
 
-<img src="https://github.com/barbaraport/softtelie-ehsoja/blob/main/docs/MVPs/sprint_3/ehSoja-Sprint-3.gif" width="500"/>
+<p align="center">
+  <img src="https://github.com/barbaraport/softtelie-ehsoja/blob/main/docs/MVPs/sprint_3/ehSoja-Sprint-3.gif" height="500px"/>
+</p>
+
 
 ***O repositório oficial do projeto pode ser acessado pelo link a seguir: https://github.com/barbaraport/softtelie-ehsoja***
 
