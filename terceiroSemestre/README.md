@@ -53,7 +53,7 @@ Neste projeto, tive grande participação no desenvolvimento da parte web da apl
 
 Foi o primeiro grande contato que tive com a parte de front-end de um projeto e aprendi a manipular eventos, requisições e elementos HTML através de JavaScript.
 
-Na parte do servidor back-end, tive contato também, pela primeira vez, com a framework do Spring Boot, que oferece uma forma simples de elegante de criar controladores a serem acessados pelos clientes e acesso/persistência dos dados no banco de dados através de sua implementação do ***JPA*** através do seu modelo de *repositórios* de entidades *ORM*,
+Na parte do servidor back-end, tive contato também, pela primeira vez, com a framework do Spring Boot, que oferece uma forma simples e elegante de criar controladores a serem acessados pelos clientes e acesso/persistência dos dados no banco de dados através de sua implementação do ***JPA*** através do seu modelo de *repositórios* de entidades *ORM*,
 dessa forma, no servidor
 
 ## Hard Skills
