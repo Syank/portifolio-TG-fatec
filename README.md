@@ -21,7 +21,7 @@ Abaixo está a lista dos projetos e seus links que levará a um README dedicado 
 - [Plataforma de ensino - 3º Semestre (1º Sem 2021)](https://github.com/Syank/portifolio-TG-fatec/tree/main/terceiroSemestre)
 - [Gerador de manuais de aeronaves - 4º Semestre (2º Sem 2021)](https://github.com/Syank/portifolio-TG-fatec/tree/main/quartoSemestre)
 - [Aplicativo para notificação de problemas em equipamento - 5º Semestre (1º Sem 2022)](https://github.com/Syank/portifolio-TG-fatec/tree/main/quintoSemestre)
-- [ehSoja (Identificação de sojas com Inteligência Artificial) - 6º Semestre (2º Sem 2022)](https://github.com/barbaraport/softtelie-ehsoja)
+- [ehSoja (Identificação de sojas com Inteligência Artificial) - 6º Semestre (2º Sem 2022)](https://github.com/Syank/portifolio-TG-fatec/tree/main/sextoSemestre)
 
 ### Sobre mim
 Carreira acadêmica:
